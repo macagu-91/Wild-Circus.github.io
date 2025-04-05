@@ -1,0 +1,169 @@
+<div style="width: 1440px; height: 5612px; position: relative; background: white; overflow: hidden">
+  <div style="width: 1440px; height: 80px; left: 0px; top: 0px; position: absolute; background: white"></div>
+  <div style="left: 60px; top: 22px; position: absolute; color: black; font-size: 30px; font-family: Inter; font-weight: 700; word-wrap: break-word">Wild Circus:Great Dreams</div>
+  <div style="left: 908px; top: 30px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 25px; display: inline-flex">
+    <div style="color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">About</div>
+    <div style="color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">Character</div>
+    <div style="color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">World</div>
+    <div style="color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">Hope</div>
+    <div style="color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">お問い合わせ</div>
+  </div>
+  <div style="width: 1440px; height: 702px; left: 0px; top: 800px; position: absolute; background: white; border: 1px black solid"></div>
+  <div style="width: 50px; height: 50px; left: 621px; top: 1385px; position: absolute; background: white"></div>
+  <div style="width: 50px; height: 50px; left: 621px; top: 1385px; position: absolute; background: linear-gradient(315deg, #FBE18A 0%, #FCBB45 21%, #F75274 38%, #D53692 52%, #8F39CE 74%, #5B4FE9 100%)"></div>
+  <div style="width: 50px; height: 50px; left: 693px; top: 1385px; position: absolute; background: #55ACEE"></div>
+  <div style="width: 24.20px; height: 20px; left: 705.50px; top: 1400px; position: absolute; background: white"></div>
+  <div style="width: 50px; height: 50px; left: 549px; top: 1385px; position: absolute; background: #3B5998"></div>
+  <div style="width: 12.69px; height: 27.20px; left: 568.17px; top: 1397.50px; position: absolute; background: white"></div>
+  <div style="width: 230px; height: 286px; left: 288px; top: 1019px; position: absolute; background: #D9D9D9"></div>
+  <div style="width: 789px; left: 549px; top: 1125px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">白々しい時節の挨拶、流れる近況報告に相手を気遣うさらりとした締めくくり。<br/>「英国情報部様はえらくお焦り申しているようで。」<br/><br/>英国情報部-サーカス-所属であり首狩り人チーフのピーターギラムは<br/><br/>現地で出会った方の影響から経営者になるという目標を持ち今に至る。<br/>場所や時間にとらわれない自由な生き方を体現すべく、3年間国内外でのホテル暮らしを経て、2023年夏よりドバイへ移住。</div>
+  <div style="left: 549px; top: 1019px; position: absolute; color: black; font-size: 18px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">あやか<br/>Ayaka<br/>2000年生まれ　千葉県出身　ドバイ在住</div>
+  <div style="left: 89px; top: 857px; position: absolute; text-align: center; color: black; font-size: 80px; font-family: Inria Serif; font-weight: 700; word-wrap: break-word">About</div>
+  <div style="left: 691px; top: 906px; position: absolute; text-align: center; color: black; font-size: 30px; font-family: Inter; font-weight: 700; word-wrap: break-word">About</div>
+  <div style="width: 1440px; height: 1235px; left: 0px; top: 4126px; position: absolute; background: #CECECE; border: 1px black solid"></div>
+  <div style="width: 830px; height: 870px; left: 305px; top: 4378px; position: absolute; background: white; border-radius: 30px"></div>
+  <div style="left: 421px; top: 4438px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 20px; display: inline-flex">
+    <div style="width: 599px; justify-content: space-between; align-items: flex-start; display: inline-flex">
+      <div style="justify-content: flex-start; align-items: center; gap: 9px; display: flex">
+        <div style="color: #252D3E; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">お名前</div>
+        <div style="width: 34px; height: 22px; background: var(--Miscellaneous-Floating-Tab---Text-Unselected, #090909); border-radius: 5px"></div>
+        <div style="color: white; font-size: 12px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">必須</div>
+      </div>
+      <div style="width: 599px; height: 52px; background: #F4F4F5; border-radius: 5px; border: 1px #E1E1E1 solid"></div>
+      <div style="color: #A8A8A8; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">例）山田　太郎　</div>
+    </div>
+    <div style="justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+      <div style="color: #252D3E; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">電話番号</div>
+      <div style="width: 34px; height: 22px; background: var(--Miscellaneous-Floating-Tab---Text-Unselected, #090909); border-radius: 5px"></div>
+      <div style="color: white; font-size: 12px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">必須</div>
+    </div>
+    <div style="width: 599px; height: 52px; background: #F4F4F5; border-radius: 5px; border: 1px #E1E1E1 solid"></div>
+    <div style="color: #A8A8A8; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">例）0120-200-177</div>
+    <div style="justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+      <div style="color: #252D3E; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">メールアドレス</div>
+      <div style="width: 34px; height: 22px; background: var(--Miscellaneous-Floating-Tab---Text-Unselected, #090909); border-radius: 5px"></div>
+      <div style="color: white; font-size: 12px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">必須</div>
+    </div>
+    <div style="width: 599px; height: 52px; background: #F4F4F5; border-radius: 5px; border: 1px #E1E1E1 solid"></div>
+    <div style="color: #A8A8A8; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">例）sample@xxx.com</div>
+    <div style="width: 599px; height: 52px; background: #F4F4F5; border-radius: 5px; border: 1px #E1E1E1 solid"></div>
+    <div style="color: #A8A8A8; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">お見積もりについて</div>
+    <div style="justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+      <div style="color: #252D3E; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">お問い合わせタイトル</div>
+      <div style="width: 34px; height: 22px; background: var(--Miscellaneous-Floating-Tab---Text-Unselected, #090909); border-radius: 5px"></div>
+      <div style="color: white; font-size: 12px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">必須</div>
+    </div>
+    <div style="color: #252D3E; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">お問い合わせ内容</div>
+    <div style="width: 599px; height: 200px; background: #F4F4F5; border-radius: 5px; border: 1px #E1E1E1 solid"></div>
+    <div style="color: #A8A8A8; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">こちらにご記入ください。</div>
+    <div data-プロパティ1="デフォルト" style="width: 599px; height: 60px; padding-left: 19px; padding-right: 19px; padding-top: 10px; padding-bottom: 10px; background: var(--Miscellaneous-Floating-Tab---Text-Unselected, #090909); border-radius: 100px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="color: white; font-size: 18px; font-family: Inter; font-weight: 700; word-wrap: break-word">送信する</div>
+    </div>
+  </div>
+  <div style="left: 630px; top: 4245px; position: absolute; color: black; font-size: 30px; font-family: Inter; font-weight: 700; word-wrap: break-word">お問い合わせ</div>
+  <div style="left: 661px; top: 4291px; position: absolute; text-align: center; color: black; font-size: 30px; font-family: Inter; font-weight: 700; word-wrap: break-word">Contact</div>
+  <div style="width: 1440px; height: 720px; left: 0px; top: 80px; position: absolute; background: #D9D9D9"></div>
+  <div style="width: 270px; height: 53px; left: 80px; top: 564px; position: absolute; background: #6F6F6F"></div>
+  <div style="left: 135px; top: 581px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">お問い合わせはこちら</div>
+  <div style="left: 80px; top: 386px; position: absolute; color: black; font-size: 60px; font-family: Inter; font-weight: 700; word-wrap: break-word">自由と成長のきっかけを提供し、<br/>共に新しい可能性を切り拓く。</div>
+  <div style="left: 80px; top: 237px; position: absolute; color: black; font-size: 40px; font-family: Inter; font-weight: 700; word-wrap: break-word">Fostering opportunities for freedom and growth,<br/>together forging new possibilities.</div>
+  <div style="width: 1440px; height: 251px; left: 0px; top: 5361px; position: absolute">
+    <div style="width: 1440px; height: 251px; left: 0px; top: 0px; position: absolute; background: white; border: 1px black solid"></div>
+    <div style="width: 67px; height: 67px; left: 1373px; top: 0px; position: absolute; background: #6F6F6F"></div>
+    <div style="width: 240px; left: 150px; top: 107px; position: absolute; color: black; font-size: 14px; font-family: Inter; font-weight: 400; word-wrap: break-word">自由と成長のきっかけを提供し、 共に新しい可能性を切り拓く。</div>
+    <div style="left: 626px; top: 225px; position: absolute; color: black; font-size: 11px; font-family: Inter; font-weight: 400; word-wrap: break-word">© 2025 AYA Design, All Rights Reserved.</div>
+    <div style="left: 147px; top: 47px; position: absolute; color: black; font-size: 30px; font-family: Inter; font-weight: 700; word-wrap: break-word">AYA Design</div>
+    <img style="width: 35px; height: 30px; left: 150px; top: 190px; position: absolute" src="https://placehold.co/35x30" />
+    <div style="left: 790px; top: 66px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 25px; display: inline-flex">
+      <div style="color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">私について</div>
+      <div style="color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">制作実績</div>
+      <div style="color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">サービス内容</div>
+      <div style="color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">お知らせ</div>
+      <div style="color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">お問い合わせ</div>
+    </div>
+  </div>
+  <div style="width: 1440px; height: 805px; left: 0px; top: 3321px; position: absolute; background: white; border: 1px black solid"></div>
+  <div style="left: 150px; top: 3438px; position: absolute; color: black; font-size: 30px; font-family: Inter; font-weight: 700; word-wrap: break-word">今後の願望</div>
+  <div style="left: 150px; top: 3484px; position: absolute; color: black; font-size: 30px; font-family: Inter; font-weight: 700; word-wrap: break-word">Blog</div>
+  <div style="width: 362px; height: 426px; left: 150px; top: 3590px; position: absolute; background: white; border: 1px black solid"></div>
+  <div style="width: 322px; left: 170px; top: 3877px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">テキストがここに入ります。テキストがここに入ります。<br/>テキストがここに入ります。テキストがここに入ります。<br/>テキストがここに入ります。テキストがここに入ります。</div>
+  <div style="width: 322px; left: 170px; top: 3819px; position: absolute; color: black; font-size: 18px; font-family: Inter; font-weight: 700; word-wrap: break-word">記事タイトル記事タイトル記事タイトル記事タイトル記事タイトル</div>
+  <div style="width: 362px; height: 209px; left: 150px; top: 3590px; position: absolute; background: #D9D9D9"></div>
+  <div style="width: 69px; height: 23px; left: 443px; top: 3590px; position: absolute; background: black"></div>
+  <div style="left: 450px; top: 3593px; position: absolute; color: white; font-size: 14px; font-family: Inter; font-weight: 400; word-wrap: break-word">カテゴリ</div>
+  <div style="width: 362px; height: 426px; left: 539px; top: 3590px; position: absolute; background: white; border: 1px black solid"></div>
+  <div style="width: 322px; left: 559px; top: 3877px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">テキストがここに入ります。テキストがここに入ります。<br/>テキストがここに入ります。テキストがここに入ります。<br/>テキストがここに入ります。テキストがここに入ります。</div>
+  <div style="width: 322px; left: 559px; top: 3819px; position: absolute; color: black; font-size: 18px; font-family: Inter; font-weight: 700; word-wrap: break-word">記事タイトル記事タイトル記事タイトル記事タイトル記事タイトル</div>
+  <div style="width: 362px; height: 209px; left: 539px; top: 3590px; position: absolute; background: #D9D9D9"></div>
+  <div style="width: 69px; height: 23px; left: 832px; top: 3590px; position: absolute; background: black"></div>
+  <div style="left: 839px; top: 3593px; position: absolute; color: white; font-size: 14px; font-family: Inter; font-weight: 400; word-wrap: break-word">カテゴリ</div>
+  <div style="width: 362px; height: 426px; left: 928px; top: 3590px; position: absolute; background: white; border: 1px black solid"></div>
+  <div style="width: 322px; left: 948px; top: 3877px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">テキストがここに入ります。テキストがここに入ります。<br/>テキストがここに入ります。テキストがここに入ります。<br/>テキストがここに入ります。テキストがここに入ります。</div>
+  <div style="width: 322px; left: 948px; top: 3819px; position: absolute; color: black; font-size: 18px; font-family: Inter; font-weight: 700; word-wrap: break-word">記事タイトル記事タイトル記事タイトル記事タイトル記事タイトル</div>
+  <div style="width: 362px; height: 209px; left: 928px; top: 3590px; position: absolute; background: #D9D9D9"></div>
+  <div style="width: 69px; height: 23px; left: 1221px; top: 3590px; position: absolute; background: black"></div>
+  <div style="left: 1228px; top: 3593px; position: absolute; color: white; font-size: 14px; font-family: Inter; font-weight: 400; word-wrap: break-word">カテゴリ</div>
+  <div style="width: 10px; height: 10px; left: 673px; top: 4058px; position: absolute; background: black; border-radius: 9999px"></div>
+  <div style="width: 10px; height: 10px; left: 690px; top: 4058px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+  <div style="width: 10px; height: 10px; left: 707px; top: 4058px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+  <div style="width: 10px; height: 10px; left: 724px; top: 4058px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+  <div style="width: 10px; height: 10px; left: 741px; top: 4058px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+  <div style="width: 10px; height: 10px; left: 758px; top: 4058px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+  <div style="width: 160px; height: 40px; left: 1130px; top: 3467px; position: absolute; background: #6F6F6F"></div>
+  <div style="left: 1170px; top: 3477px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">ブログ一覧</div>
+  <div style="width: 1440px; height: 967px; left: 0px; top: 2354px; position: absolute; background: white; border: 1px black solid"></div>
+  <div style="left: 91px; top: 2393px; position: absolute; text-align: center; color: black; font-size: 80px; font-family: Inria Serif; font-weight: 700; word-wrap: break-word">CrossOver</div>
+  <div style="width: 473.47px; left: 180.65px; top: 2608px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">コーポレートサイト・ランディングページ・ECサイト・メディアサイト等、運営目的に応じて最適なデザインと機能を持ったウェブサイトを制作いたします。既存ウェブサイトのリニューアルやリデザイン、機能の追加やコンテンツの追加などもお気軽にご相談ください。</div>
+  <div style="width: 132px; left: 401px; top: 2742px; position: absolute; color: black; font-size: 30px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">30万円</div>
+  <div style="width: 534.76px; height: 60px; left: 150px; top: 2518px; position: absolute; background: black"></div>
+  <div style="width: 232.90px; left: 300.16px; top: 2533px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">シャロジョン</div>
+  <div style="width: 534.76px; height: 344px; left: 150px; top: 2518px; position: absolute; border: 1px black solid"></div>
+  <div style="width: 473.47px; height: 50px; padding-top: 10px; padding-bottom: 10px; left: 180.65px; top: 2787px; position: absolute; background: #9C9C9C; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div style="color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">お問い合わせ　→</div>
+  </div>
+  <div style="width: 176.21px; height: 25px; padding-top: 10px; padding-bottom: 10px; left: 180.65px; top: 2744px; position: absolute; background: #9C9C9C; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div style="color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">料金</div>
+  </div>
+  <div style="width: 534.76px; height: 60px; left: 755.24px; top: 2518px; position: absolute; background: black"></div>
+  <div style="width: 237.50px; left: 903.87px; top: 2533px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">カーサ―</div>
+  <div style="width: 534.76px; height: 344px; left: 755.24px; top: 2518px; position: absolute; border: 1px black solid"></div>
+  <div style="width: 473.47px; height: 50px; padding-top: 10px; padding-bottom: 10px; left: 785.89px; top: 2787px; position: absolute; background: #9C9C9C; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div style="color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">お問い合わせ　→</div>
+  </div>
+  <div style="width: 473.47px; left: 785.65px; top: 2608px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">スマホアプリやWebアプリ等、ユーザーがサービスを利用することで得られる体験から構築し、最大限の価値が得られるような心地よい見た目作りをしていきます。導線を考え、ユーザーファーストのものづくりをしています。</div>
+  <div style="width: 91.94px; left: 1006.29px; top: 2742px; position: absolute; color: black; font-size: 30px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">要相談</div>
+  <div style="width: 176.21px; height: 25px; padding-top: 10px; padding-bottom: 10px; left: 785.65px; top: 2744px; position: absolute; background: #9C9C9C; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div style="color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">料金</div>
+  </div>
+  <div style="width: 534.76px; height: 60px; left: 150px; top: 2892px; position: absolute; background: black"></div>
+  <div style="width: 367.74px; left: 232.74px; top: 2907px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">ベネジョンマーシャロ</div>
+  <div style="width: 534.76px; height: 344px; left: 150px; top: 2892px; position: absolute; border: 1px black solid"></div>
+  <div style="width: 473.47px; height: 50px; padding-top: 10px; padding-bottom: 10px; left: 180.65px; top: 3161px; position: absolute; background: #9C9C9C; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div style="color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">お問い合わせ　→</div>
+  </div>
+  <div style="width: 473.47px; left: 180.65px; top: 2982px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">パンフレット・ポスター・パッケージ・名刺・プレゼン資料などの印刷物のデザインを承っております。体系的に分かりやすく説明したい、商品を美しく見せたいなど幅広いニーズにご対応出来る技術と実績がございます。</div>
+  <div style="width: 176.21px; height: 25px; padding-top: 10px; padding-bottom: 10px; left: 180.65px; top: 3118px; position: absolute; background: #9C9C9C; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div style="color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">料金</div>
+  </div>
+  <div style="width: 534.76px; height: 60px; left: 755.24px; top: 2892px; position: absolute; background: black"></div>
+  <div style="width: 367.74px; left: 837.98px; top: 2907px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">ストロス</div>
+  <div style="width: 534.76px; height: 344px; left: 755.24px; top: 2892px; position: absolute; border: 1px black solid"></div>
+  <div style="width: 473.47px; height: 50px; padding-top: 10px; padding-bottom: 10px; left: 785.89px; top: 3161px; position: absolute; background: #9C9C9C; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div style="color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">お問い合わせ　→</div>
+  </div>
+  <div style="width: 473.47px; left: 785.65px; top: 2982px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">ブランディングとなるロゴ制作を承っております。新規立ち上げでブランディングが決まっていない方でも、ヒアリングを通し構想段階からお手伝いいたします。ブランディング全体のデザイン統一に役立つスタイルガイドも作成いたします。</div>
+  <div style="left: 1006.29px; top: 3116px; position: absolute; color: black; font-size: 30px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">5万円〜</div>
+  <div style="width: 176.21px; height: 25px; padding-top: 10px; padding-bottom: 10px; left: 785.65px; top: 3118px; position: absolute; background: #9C9C9C; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div style="color: black; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">料金</div>
+  </div>
+  <div style="width: 1440px; height: 852px; left: 0px; top: 1502px; position: absolute; background: white; border: 1px black solid"></div>
+  <div style="width: 198px; height: 217px; left: 150px; top: 1758px; position: absolute; background: #D9D9D9"></div>
+  <div style="width: 198px; height: 217px; left: 461px; top: 1758px; position: absolute; background: #D9D9D9"></div>
+  <div style="width: 198px; height: 217px; left: 772px; top: 1758px; position: absolute; background: #D9D9D9"></div>
+  <div style="width: 198px; height: 217px; left: 1083px; top: 1758px; position: absolute; background: #D9D9D9"></div>
+  <div style="left: 91px; top: 1566px; position: absolute; text-align: center; color: black; font-size: 80px; font-family: Inria Serif; font-weight: 700; word-wrap: break-word">Character</div>
+  <div style="left: 159px; top: 1932px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">ピーターギラム</div>
+  <div style="left: 480px; top: 1932px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">ヘクターディクソン</div>
+  <div style="left: 848px; top: 1932px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">リッキーター</div>
+  <div style="left: 1194px; top: 1932px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">ファビアン</div>
+</div>
