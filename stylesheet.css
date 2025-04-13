@@ -78,6 +78,11 @@ nav a {
   line-height: 1.8;
 }
 
+.fit-picture {
+  width: 230px;
+  height: 286px;
+}
+
 .contact-section {
   background-color: #CECECE;
   padding: 100px 0;
