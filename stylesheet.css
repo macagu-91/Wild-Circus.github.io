@@ -4,6 +4,7 @@ body {
   background-color: #fff;
 }
 
+/* ヘッダー */
 header {
   display: flex;
   justify-content: space-between;
@@ -26,6 +27,7 @@ nav a {
   font-size: 16px;
 }
 
+/* ヒーローセクション */
 .hero {
   background-color: #D9D9D9;
   padding: 160px 80px;
@@ -41,6 +43,7 @@ nav a {
   margin: 0;
 }
 
+/* セクションタイトル */
 .section-title {
   text-align: center;
   font-size: 80px;
@@ -49,7 +52,39 @@ nav a {
   margin: 100px 0 20px;
 }
 
+/* About・World */
+.about-content,
+.world-content {
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
 
+.about-image,
+.world-image {
+  display: none;
+}
+
+.about-text,
+.world-text {
+  max-width: 700px;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+/* Character・Hope */
+.character-content,
+.hope-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
 
 .character-image-box,
 .hope-image-box {
@@ -69,94 +104,14 @@ nav a {
   display: block;
 }
 
-.about-text,
 .character-info,
-.world-text,
 .hope-text {
-  max-width: 700px;
+  max-width: 600px;
   font-size: 16px;
   line-height: 1.8;
 }
 
-.contact-section {
-  background-color: #CECECE;
-  padding: 100px 0;
-}
-
-.contact-box {
-  background-color: #fff;
-  border-radius: 30px;
-  padding: 40px;
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.contact-box h2 {
-  text-align: center;
-  font-size: 30px;
-  margin-bottom: 20px;
-}
-
-footer {
-  background-color: #fff;
-  padding: 40px 60px;
-  border-top: 1px solid #000;
-}
-
-.footer-nav {
-  display: flex;
-  justify-content: center;
-  gap: 25px;
-  margin-top: 20px;
-}
-
-footer p {
-  text-align: center;
-  font-size: 14px;
-}
-
-@media screen and (max-width: 768px) {
-  .about-content,
-  .character-content,
-  .world-content,
-  .hope-content {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .about-image,
-  .world-image,
-  .character-image-box,
-  .hope-image-box {
-    width: 100%;
-    max-width: 300px;
-    aspect-ratio: 4 / 5;
-    height: auto;
-  }
-
-  .character-image img,
-  .hope-image img {
-    max-width: 100%;
-    max-height: 100%;
-  }
-}
-
-/* About・Worldセクションの画像ボックス削除 → スペースも調整 */
-.about-content,
-.world-content {
-  display: flex;
-  flex-direction: column;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-.about-image,
-.world-image {
-  display: none;
-}
-
-/* Crossoverセクションの左に余白 */
+/* Crossoverセクション */
 .crossover-intro {
   max-width: 800px;
   margin: 0 auto 60px;
@@ -186,10 +141,79 @@ footer p {
   margin-bottom: 10px;
 }
 
-.crossover-intro {
+/* Contact */
+.contact-section {
+  background-color: #CECECE;
+  padding: 100px 0;
+}
+
+.contact-box {
+  background-color: #fff;
+  border-radius: 30px;
+  padding: 40px;
   max-width: 800px;
-  margin: 0 auto 60px;  /* ← ここで中央寄せ */
-  padding-left: 40px;   /* ← 左に少し余白を残す */
-  font-size: 16px;
-  line-height: 1.8;
+  margin: 0 auto;
+}
+
+.contact-box h2 {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+/* Footer */
+footer {
+  background-color: #fff;
+  padding: 40px 60px;
+  border-top: 1px solid #000;
+}
+
+.footer-nav {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  margin-top: 20px;
+}
+
+footer p {
+  text-align: center;
+  font-size: 14px;
+}
+
+/* レスポンシブ調整 */
+@media screen and (max-width: 768px) {
+  .about-content,
+  .character-content,
+  .world-content,
+  .hope-content {
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+
+  .about-image,
+  .world-image,
+  .character-image-box,
+  .hope-image-box {
+    width: 100%;
+    max-width: 300px;
+    aspect-ratio: 4 / 5;
+    height: auto;
+  }
+
+  .character-image img,
+  .hope-image img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+  .character-info,
+  .hope-text {
+    max-width: 90%;
+  }
+
+  .crossover-intro {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
 }
