@@ -186,3 +186,10 @@ footer p {
   margin-bottom: 10px;
 }
 
+.crossover-intro {
+  max-width: 800px;
+  margin: 0 auto 60px;  /* ← ここで中央寄せ */
+  padding-left: 40px;   /* ← 左に少し余白を残す */
+  font-size: 16px;
+  line-height: 1.8;
+}
