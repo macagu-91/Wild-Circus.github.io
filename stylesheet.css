@@ -78,10 +78,46 @@ nav a {
   line-height: 1.8;
 }
 
-.character-image {
+.hope-image {
   width: 230px;
-  height: 286px;
+  height: auto;
 }
+
+.hope-image img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+}
+
+/* キャラクター画像を適切なサイズで表示 */
+.character-image img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+}
+
+/* レスポンシブ対応（スマホ表示向け） */
+@media screen and (max-width: 768px) {
+  .about-content,
+  .character-content,
+  .world-content,
+  .hope-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .about-image,
+  .character-image,
+  .world-image,
+  .hope-image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+  }
+}
+
 
 .contact-section {
   background-color: #CECECE;
