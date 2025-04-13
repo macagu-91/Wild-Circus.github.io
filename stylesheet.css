@@ -60,7 +60,6 @@ nav a {
   padding: 20px;
 }
 
-/* 共通の灰色ボックス */
 .about-image,
 .world-image {
   width: 230px;
@@ -68,24 +67,7 @@ nav a {
   background-color: #D9D9D9;
 }
 
-/* キャラクター画像用の灰色ボックス */
-.character-image-box {
-  width: 230px;
-  height: 286px;
-  background-color: #D9D9D9;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.character-image img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
-  display: block;
-}
-
-/* Hope画像用の灰色ボックス */
+.character-image-box,
 .hope-image-box {
   width: 230px;
   height: 286px;
@@ -95,6 +77,7 @@ nav a {
   align-items: center;
 }
 
+.character-image img,
 .hope-image img {
   max-width: 100%;
   max-height: 100%;
@@ -103,7 +86,7 @@ nav a {
 }
 
 .about-text,
-.character-text,
+.character-info,
 .world-text,
 .hope-text {
   max-width: 700px;
@@ -136,7 +119,7 @@ footer {
   border-top: 1px solid #000;
 }
 
-footer .footer-nav {
+.footer-nav {
   display: flex;
   justify-content: center;
   gap: 25px;
@@ -148,7 +131,6 @@ footer p {
   font-size: 14px;
 }
 
-/* レスポンシブ対応（スマホ表示向け） */
 @media screen and (max-width: 768px) {
   .about-content,
   .character-content,
@@ -164,8 +146,8 @@ footer p {
   .hope-image-box {
     width: 100%;
     max-width: 300px;
+    aspect-ratio: 4 / 5;
     height: auto;
-    aspect-ratio: 4/5;
   }
 
   .character-image img,
