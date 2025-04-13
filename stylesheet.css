@@ -105,19 +105,17 @@ section {
 }
 
 .crossover-blocks {
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
   gap: 20px;
-  flex-wrap: wrap;
 }
 
 .crossover-block {
-  width: 23%;
-  text-align: center;
   background-color: #fff;
   padding: 15px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
 }
 
 .crossover-image img {
