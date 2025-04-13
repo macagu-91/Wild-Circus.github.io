@@ -49,23 +49,7 @@ nav a {
   margin: 100px 0 20px;
 }
 
-.about-content,
-.character-content,
-.world-content,
-.hope-content {
-  display: flex;
-  max-width: 1000px;
-  margin: 0 auto;
-  gap: 40px;
-  padding: 20px;
-}
 
-.about-image,
-.world-image {
-  width: 230px;
-  height: 286px;
-  background-color: #D9D9D9;
-}
 
 .character-image-box,
 .hope-image-box {
@@ -156,3 +140,49 @@ footer p {
     max-height: 100%;
   }
 }
+
+/* About・Worldセクションの画像ボックス削除 → スペースも調整 */
+.about-content,
+.world-content {
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.about-image,
+.world-image {
+  display: none;
+}
+
+/* Crossoverセクションの左に余白 */
+.crossover-intro {
+  max-width: 800px;
+  margin: 0 auto 60px;
+  padding-left: 40px;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+.crossover-blocks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  padding: 0 20px;
+  margin-top: 20px;
+}
+
+.crossover-block {
+  width: 200px;
+  text-align: center;
+}
+
+.crossover-image {
+  width: 100%;
+  height: 200px;
+  background-color: #D9D9D9;
+  margin-bottom: 10px;
+}
+
