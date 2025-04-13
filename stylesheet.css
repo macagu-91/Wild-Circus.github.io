@@ -162,15 +162,15 @@ footer p {
   .world-image,
   .character-image-box,
   .hope-image-box {
-    width: 70%;
-    max-width: 100px;
+    width: 100%;
+    max-width: 200px;
     height: auto;
     aspect-ratio: 4/5;
   }
 
   .character-image img,
   .hope-image img {
-    max-width: 70%;
-    max-height: 70%;
+    max-width: 90%;
+    max-height: 90%;
   }
 }
